@@ -6,7 +6,7 @@ const posts = [
   },
   {
     title: "React vs Vite",
-    author: "Jane",
+    author: "Algirdas",
     content: "Vite is a modern build tool that is much faster than Create React App. Try it for your next project!"
   },
   {
